@@ -1,0 +1,21 @@
+.time-footer{
+	color: #930045;
+	margin-left: 10px;
+}
+.header-post{
+	margin-left: 12px;
+}
+.content-post{
+	border: solid 1px black; 
+	padding: 10px 0px;
+	padding-left: 10px;
+	margin-bottom: 2px;
+}
+
+.content-post{
+	background-color: #79b3d4;
+	border-radius: 25px;
+}
+.comment{
+	background-color: gray;
+}
